@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Владилена  Шевченко](https://up.htmlacademy.ru/htmlcss/31/user/1579865).
-* Наставник: `Неизвестно`.
+* Наставник: [Ирина Малиновская](https://htmlacademy.ru/profile/irina-malinovskaya).
 
 ---
 
